@@ -1,4 +1,4 @@
-import * as users from './fake.api/usergit';
+import * as users from './fake.api/user.api';
 const API = {
   users,
 };
